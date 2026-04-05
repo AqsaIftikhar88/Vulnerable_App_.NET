@@ -1,6 +1,7 @@
 USE [webproject]
 GO
-/****** Object:  Table [dbo].[Admin_login]    Script Date: 4/5/2026 11:59:17 PM ******/
+/****** This file is just for an example for idea of database table whiich are used for login and registeration of users and admin******/
+/****** Object:  Table [dbo].[Admin_login] ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
@@ -14,7 +15,7 @@ CREATE TABLE [dbo].[Admin_login](
 )WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
 ) ON [PRIMARY]
 GO
-/****** Object:  Table [dbo].[user_table]    Script Date: 4/5/2026 11:59:17 PM ******/
+/****** Object:  Table [dbo].[user_table] ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
