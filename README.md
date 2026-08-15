@@ -60,8 +60,6 @@ database.sql
 
 Import the script into SQL Server and update the connection string in `web.config` according to your local environment.
 
-> Do not use real credentials or sensitive information in the public repository.
-
 ---
 
 # 🔐 Vulnerabilities Identified & Remediation
