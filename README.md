@@ -153,8 +153,7 @@ During the application security assessment, I identified a SQL Injection vulnera
 ### Remediation
 
 <img width="975" height="426" alt="image" src="https://github.com/user-attachments/assets/0f4b21ee-5a9f-4e85-a6f5-4c16997d5691" />
-The application should use **parameterized SQL queries** instead of directly concatenating user input into SQL statements.
-Parameterized queries separate SQL commands from user-supplied data and significantly reduce the risk of SQL Injection.
+The application should use parameterized SQL queries instead of directly concatenating user input into SQL statements. Parameterized queries separate SQL commands from user-supplied data and significantly reduce the risk of SQL Injection.
 
 ---
 
