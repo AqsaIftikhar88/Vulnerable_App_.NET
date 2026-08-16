@@ -102,6 +102,7 @@ The application allows the administrative page to be reached directly instead of
 
 <img width="975" height="424" alt="image" src="https://github.com/user-attachments/assets/dfa866ff-61f3-4a66-8a36-d24dcdf304af" />
 
+Parameterized queries separate SQL commands from user-supplied data and significantly reduce the risk of SQL Injection.
 ---
 
 ## 2. Stored Cross-Site Scripting (XSS)
