@@ -234,7 +234,4 @@ This experience helped me understand the importance of secure coding practices a
 
 ## 👩‍💻 Developed by
 
-**Aqsa Iftikhar**
-
-Computer System Engineering
-Dawood University of Engineering and Technology
+**Engr. Aqsa Iftikhar**
